@@ -15,4 +15,6 @@
 
 <!-- ![Kush ( 1uc1f3r616) • Instagram photos](https://user-images.githubusercontent.com/41824020/87232378-23db0880-c3dc-11ea-954d-8a41e1a7177c.png) -->
 
-![Tell Me Your Darkest Secret](https://user-images.githubusercontent.com/41824020/87232504-386bd080-c3dd-11ea-9367-76ae338cce2d.png)
+<!-- ![Tell Me Your Darkest Secret](https://user-images.githubusercontent.com/41824020/87232504-386bd080-c3dd-11ea-9367-76ae338cce2d.png) -->
+
+![Tell Me Your Darkest Secret (con)](https://user-images.githubusercontent.com/41824020/87232504-386bd080-c3dd-11ea-9367-76ae338cce2d.png)
