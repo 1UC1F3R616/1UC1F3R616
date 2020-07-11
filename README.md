@@ -17,4 +17,4 @@
 
 <!-- ![Tell Me Your Darkest Secret](https://user-images.githubusercontent.com/41824020/87232504-386bd080-c3dd-11ea-9367-76ae338cce2d.png) -->
 
-![Tell Me Your Darkest Secret (con)](https://user-images.githubusercontent.com/41824020/87232504-386bd080-c3dd-11ea-9367-76ae338cce2d.png)
+![github card condensed](https://user-images.githubusercontent.com/41824020/87232611-d364aa80-c3dd-11ea-8ea4-76066bcd0508.png)
