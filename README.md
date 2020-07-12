@@ -17,4 +17,7 @@
 
 <!-- ![github](https://user-images.githubusercontent.com/41824020/87243616-0302c980-c455-11ea-97cc-599e0dfbd944.png) -->
 
+<!-- GitHub Readme stats -->
+![Kush's github stats](https://github-readme-stats.vercel.app/api?username=1UC1F3R616&show_icons=true&&hide_border=true)
+
 ![github card perfect name](https://user-images.githubusercontent.com/41824020/87243649-4cebaf80-c455-11ea-9519-6c30ed822e2d.png)
