@@ -19,6 +19,6 @@
 <!-- GitHub Readme stats -->
 <!-- ![Kush's github stats](https://github-readme-stats.vercel.app/api?username=1UC1F3R616&show_icons=true&&hide_border=true) -->
 
-![Kush's github stats](https://github-readme-stats.1uc1f3r616.vercel.app/api?username=1UC1F3R616&show_icons=true&&hide_border=true)
+![Kush's github stats](https://github-readme-stats.1uc1f3r616.vercel.app/api?username=1UC1F3R616&count_private=true&show_icons=true&&hide_border=true)
 
 <!-- ![github card perfect name](https://user-images.githubusercontent.com/41824020/87243649-4cebaf80-c455-11ea-9519-6c30ed822e2d.png) -->
