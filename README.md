@@ -14,6 +14,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-follow-0088ff.svg?logo=instagram&logoColor=white)](https://www.instagram.com/1UC1F3R616/)
 [![Github Gists](https://img.shields.io/github/followers/1uc1f3r616?color=0088ff&label=Gists&logoColor=blue&style=social)](https://gist.github.com/1UC1F3R616)
 
+[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/kushchoudhary/)
+
 <!-- ![github](https://user-images.githubusercontent.com/41824020/87243616-0302c980-c455-11ea-97cc-599e0dfbd944.png) -->
 
 <!-- GitHub Readme stats -->
