@@ -4,7 +4,7 @@
 **1UC1F3R616/1UC1F3R616**
 -->
 
-- 🔭 `I’m currently looking for internship`
+- 🔭 `I’m working on my Goals rn`
 - 👯 `I’m looking to collaborate on Automation in Cyber Sec Projects`
 - 💬 `Ask me about Good Practices for Backend Development | DevSecOps`
 - ⚡ Fun fact: `1 commit a day, keeps the whiteness away` <!--Got a new Error... Progress :)-->
