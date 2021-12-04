@@ -8,7 +8,7 @@
 - 👯 `I’m looking to collaborate on Automation/ML in Cyber Sec Projects`
 - 💬 `Ask me about Good Practices for Backend Development | DevSecOps`
 - ⚡ Fun fact: `1 commit a day, keeps the whiteness away` <!--Got a new Error... Progress :)-->
-- :smile: `pentesting` `scripting` `scraping` `node-js` `django` `flask` `fastAPI`
+- :smile: `pentesting` `scripting` `scraping` `node-js` `django` `flask` `fastAPI` `Golang`
 
 [![LinkedIn](https://img.shields.io/static/v1.svg?label=Connect&message=@Kush&color=grey&logo=linkedin&labelColor=0088ff&style=social)](https://www.linkedin.com/in/kush-choudhary-567b38169?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDYkgbUGhTniMSRqOUkdN3A%3D%3D)
 [![Twitter](https://img.shields.io/twitter/follow/1R616?style=social)](https://twitter.com/1R616)
